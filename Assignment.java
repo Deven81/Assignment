@@ -81,6 +81,11 @@ public class Assignment {
 		Thread.sleep(2000);
 
 		alt.accept();
+		
+		// In this above code problem is all the code is correct but in this alert is not accepts
+		// I tried fix the alert accept but it can't accepts 
+		// so Because of alert not accepting i can't right logout code please understand
+
 
 	}
 }
